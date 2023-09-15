@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.header-menu a {
+    text-decoration: none;
+    color: black;
+}
+
+.alard {
+    height: 480px;
+}
+
+.fooder-box {
+    background: #000;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
